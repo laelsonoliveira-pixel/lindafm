@@ -1,0 +1,29 @@
+{
+  "radio": {
+    "name": "Rádio Linda FM",
+    "frequency": "105.1",
+    "city": "Nilópolis - GO",
+    "slogan": "A rádio que toca seu coração",
+    "stream": "https://centova3.transmissaodigital.com:20033/",
+    "website": "https://radiolindafm.com.br",
+    "logo": "https://radiolindafm.com.br/logo.png",
+    "background": "https://radiolindafm.com.br/background.jpg"
+  },
+
+  "social": {
+    "instagram": "https://www.instagram.com/radiolindafm2026/",
+    "facebook": "https://www.facebook.com/profile.php?id=61591485754067",
+    "whatsapp": "5564992396410"
+  },
+
+  "notification": {
+    "title": "Rádio Linda FM",
+    "text": "Você está ouvindo a melhor programação."
+  },
+
+  "colors": {
+    "primary": "#C89B3C",
+    "secondary": "#111111",
+    "background": "#000000"
+  }
+}
